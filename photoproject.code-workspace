@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../web_app"
+		},
+		{
+			"path": "../python39test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
