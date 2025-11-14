@@ -10,10 +10,10 @@ Scripts/
 pyenv.cfg
 
 # Django
-db.sqlite3
+#db.sqlite3
 *.log
-media/
-staticfiles/
+#media/
+#staticfiles/
 *.pot
 
 # VSCode
