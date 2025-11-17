@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../web_app_fko20koikawa"
 		}
 	],
 	"settings": {}
